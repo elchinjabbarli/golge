@@ -1,6 +1,6 @@
 # GÖLGE
 
-**v2.6.0 — Sezon 1: Sisin Hafızası**
+**v3.0.0 — Sezon 1: Sisin Hafızası**
 
 ▶ **Oyna:** https://elchinjabbarli.github.io/golge/
 
